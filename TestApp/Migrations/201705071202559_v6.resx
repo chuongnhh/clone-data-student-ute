@@ -117,17 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="001-two" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\001-two.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Target" xml:space="preserve">
+    <value>H4sIAAAAAAAEAO1ZzW7jNhC+F+g7CDq1QNbKz6UN5F1k7aQNGifBKtk7LY1tohSlklRgP1sPfaS+Qof6oSjJP3K8Noqi8MUaDb8Zzkicb0Z///mX/2kZM+cNhKQJH7oXg3PXAR4mEeXzoZup2Yef3E8fv//Ov43ipfO10rvSeriSy6G7UCq99jwZLiAmchDTUCQymalBmMQeiRLv8vz8Z+/iwgOEcBHLcfwvGVc0hvwCL0cJDyFVGWGTJAImSzneCXJU55HEIFMSwtB9Aalu0tR1bhglaD4ANnMdwnmiiELnrl8lBEokfB6kKCDsZZUC6s0Ik1A6fV2r9/X//FL779ULK6gwkyqJ9wS8uCoD4rWXvyusrgkYhuwWQ6tWetd52IYuRndG567TNnU9YkKrmZgOCs0zp7w+MwnH50L/zpxRxlQmYMghU4KwM+c5mzIa/garl+R34EOeMWZ7g/7gvYYARc8iSUGo1ReYlT7eR67jNdd57YVmmbWm8P+eq6tL13lE42TKwCTb2mugEgG/AAdBFETPRCkQXGNAHq6O9ZatQBGh7nkEy102t+Pc8mhvFN+rU7o10YHK9Hb6ZLpU/T/V61Kdh2aEJ1FlFM8TPA9dZ0KWD8DnajF08a/r3NElRJWkdOSVUzw+cZES2c7H4Y4KqfTfo1t6ICcydIeZOYkhzHAE4uhmPlOhFhFZHd3QbUwoO7qV+/GIiOjoZp4XCYfHLJ6eIEO/JvGpTN1EkQApv7Gd7Qc8FmVFKJ5mzfNpPNU3YLnuuEcKVJ74srTX3FUBHIBqMATcVu1HQawGFXfwtgOUPq1DMEVp3Y7N3mrG5xWUr6KG3gZu6E9ImmLwLa5YSpygIIqjD8H+ZCouMLxQruFUxltjCSsNmUPrro5nBPnRPiaKTIlO/yiKO2qdTG4IcmWumax2pa0jX+nr/8WaJsFrL61jd4fbidGlfGdgHDAcsrMwp+iEEbGmYI8SlsV8U9HfttpmWzaKLe+PVnMuG6uWdpF8rxWPdqy9TrBbhKadu16ZNW/Re1JbvWf753bjymMl1+JXzexaN/rjWRzKRrPE/bFqlmRD1dI9vDI0qOGUkfZHqniOjVPJ+qPUNMbGqaV7vE4FT2m8S4WoP0bFQhpPUSnrj9IgGTZU40Z/PJtI2HC2vD+a4Qo2lBGe+NDpFNy2irFuCm+rwPplsds9oelUv0LFdTBAbzTKK99KKogHWmEQ/MFGjOYUoVKYEE5neK4VjaZ7eX5x2Zr3/HtmL56UEes1gDl5r0x1THd2w3tOMLqTkNzMgXOQ3Rh7T0H+K+HuTCP4GxHhgogfYrL80QZ818ThILT2VOEw11qTg4PAmtOBg6DaE4CDwBpd/kFIzU7+IKg13fpBeN2O/CC4Vte9B9Z+nXW3bevTNm/pmovCN3SjaYLOF06aXrtfS72to14HX3fi7+y3u2Xe9+zPNf4YJJ3XEPrjDYdQ188atNK557OkSiZuzfaoUmnlegKKRBj+G6HojIQKb4eY+3zM8pWwLH+FpoDV4ylTaaZupIR4yhoM1ve228+HCk2f/adUX8lvsQV0k+IW4Il/ziiLjN93a4raBgj9JJZFBL0KlC4m85VBesTXtR9QGb4xpPo85OoF4pQhmHziAXmD9/j2KuEB5iRcVWxtM8juRDTD7o8pmQsSyxKjXq8/QXr6G+THfwAVJ9vdtRwAAA==</value>
   </data>
-  <data name="arrows" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\arrows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="001-letter" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\001-letter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="002-cogwheel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\002-cogwheel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DefaultSchema" xml:space="preserve">
+    <value>dbo</value>
   </data>
 </root>
