@@ -27,10 +27,6 @@ namespace TestApp.Migrations
             //      new Person { FullName = "Rowan Miller" }
             //    );
             //
-
-            context.Configs.AddOrUpdate(
-              new Config { StartIndex = 1611000, EndIndex = 1711000 }
-            );
         }
     }
 }

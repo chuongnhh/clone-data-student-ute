@@ -15,6 +15,5 @@ namespace TestApp
         }
 
         public virtual DbSet<Student> Students { get; set; }
-        public virtual DbSet<Config> Configs { get; set; }
     }
 }
